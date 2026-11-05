@@ -4,6 +4,12 @@
 
 BBA (Computer Applications), Modern Education Society's Ness Wadia College of Commerce, Pune — SPPU (2025, Grade A, CGPA 7.61)
 
+## Portfolio
+
+**[Kamaji Kamble — Data Analyst Portfolio](https://muse.ai/s/kamaji-kamble-portfolio-sxq6syyqxpvoa/UGQJsWfUWasrCi3qAY-6cbaYWvuvD7xl_p-aW2ZCNq4)**
+
+Aspiring Data Analyst | SQL, Advanced Excel, Python (pandas) | BBA (Computer Applications), Ness Wadia College, Pune. Projects: E-commerce Sales Analysis (1,000 orders, Rs 15,51,160 revenue) and YouTube Channel Analytics Audit (18 videos).
+
 ## Skills
 
 | Area | Tools & techniques |
